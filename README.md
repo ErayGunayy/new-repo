@@ -1,0 +1,1 @@
+Bu repoda machine learning engineer olmaya çalışırken öğrendiğim her şeyi içeriyor. Ek olarak yaptığım projler de eklenecek.
